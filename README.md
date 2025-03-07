@@ -23,6 +23,6 @@ Instead, you can use only one command: **dockerstop**!
 
 `sudo cp dockerstop.sh /bin/dockerstop`
 
--
+--
 
 For contact: volkanyigittr@gmail.com
