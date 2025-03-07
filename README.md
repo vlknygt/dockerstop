@@ -4,7 +4,10 @@
 
 Are you working with multiple docker containers, but not using docker compose? Then, you have to remove all containers manually to avoid conflict errors.
 
-Instead, you can use only one command: **dockerstop**!  
+Instead, you can use only one command: **dockerstop**!
+
+> [!CAUTION]
+> Don't use this command if you have important data inside containers. Using this command may cause data loss! 
 
 ## Installation
 * Clone the repository
@@ -30,9 +33,6 @@ chmod +x dockerstop.sh
 ```
 sudo cp dockerstop.sh /bin/dockerstop
 ```
-
-> [!CAUTION]
-> Don't use this command if you have important data inside containers. Using this command may cause data loss! 
 
 ---
 
