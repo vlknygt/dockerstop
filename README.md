@@ -11,10 +11,13 @@ Instead, you can use only one command: **dockerstop**!
 `git clone https://github.com/vlknygt/dockerstop.git`
 
 * Go inside the repository
+  
 `cd dockerstop`
 
 * Give permission to execute the script
+  
 `chmod +x dockerstop.sh`
 
 * Copy dockerstop bash script to `/bin/` folder
+
 `sudo cp dockerstop.sh /bin/dockerstop`
