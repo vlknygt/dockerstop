@@ -2,8 +2,6 @@
 # dockerstop
 <center><img src="https://github.com/vlknygt/dockerstop/blob/main/dockerstop.gif?raw=true" alt="dockerstop gif" width="450"></center>
 
-![dockerstop gif](https://github.com/vlknygt/dockerstop/blob/main/dockerstop.gif?raw=true)
-
 Are you working with multiple docker containers, but not using docker compose? Then, you have to remove all containers manually to avoid conflict errors.
 
 Instead, you can use only one command: **dockerstop**!  
