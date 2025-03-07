@@ -8,6 +8,7 @@ Instead, you can use only one command: **dockerstop**!
 
 ## Installation
 * Clone the repository
+  
 `git clone https://github.com/vlknygt/dockerstop.git`
 
 * Go inside the repository
