@@ -8,20 +8,28 @@ Instead, you can use only one command: **dockerstop**!
 
 ## Installation
 * Clone the repository
-  
-`git clone https://github.com/vlknygt/dockerstop.git`
+
+```
+git clone https://github.com/vlknygt/dockerstop.git
+```
 
 * Go inside the repository
-  
-`cd dockerstop`
+
+```
+cd dockerstop
+```
 
 * Give permission to execute the script
   
-`chmod +x dockerstop.sh`
+```
+chmod +x dockerstop.sh
+```
 
 * Copy dockerstop bash script to `/bin/` folder
 
-`sudo cp dockerstop.sh /bin/dockerstop`
+```
+sudo cp dockerstop.sh /bin/dockerstop
+```
 
 ---
 
