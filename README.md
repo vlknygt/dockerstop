@@ -31,6 +31,9 @@ chmod +x dockerstop.sh
 sudo cp dockerstop.sh /bin/dockerstop
 ```
 
+> [!CAUTION]
+> Don't use this command if you have important data inside containers. Using this command may cause data loss! 
+
 ---
 
 For contact: volkanyigittr@gmail.com
