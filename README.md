@@ -6,8 +6,10 @@ Are you working with multiple docker containers, but not using docker compose? T
 
 Instead, you can use only one command: **dockerstop**!
 
+
 > [!CAUTION]
-> Don't use this command if you have important data inside containers. Using this command may cause data loss! 
+> Don't use this command if you have important data inside containers. Using this command may cause data loss!
+
 
 ## Installation
 * Clone the repository
