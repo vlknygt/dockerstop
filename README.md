@@ -22,3 +22,7 @@ Instead, you can use only one command: **dockerstop**!
 * Copy dockerstop bash script to `/bin/` folder
 
 `sudo cp dockerstop.sh /bin/dockerstop`
+
+<br />
+
+For contact: volkanyigittr@gmail.com
