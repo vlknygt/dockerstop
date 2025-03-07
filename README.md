@@ -1,6 +1,8 @@
 
 # dockerstop
-<center><img src="[https://raw.githubusercontent.com/vlknygt/dockerstop/refs/heads/main/dockerstop.gif?token=GHSAT0AAAAAACYMA5JN5KOUG2ZS77MB7SYGZ6KIR6Q](https://github.com/vlknygt/dockerstop/blob/main/dockerstop.gif?raw=true)" alt="Sample Image" width="450"></center>
+<center><img src="https://github.com/vlknygt/dockerstop/blob/main/dockerstop.gif?raw=true" alt="dockerstop gif" width="450"></center>
+
+![dockerstop gif](https://github.com/vlknygt/dockerstop/blob/main/dockerstop.gif?raw=true)
 
 Are you working with multiple docker containers, but not using docker compose? Then, you have to remove all containers manually to avoid conflict errors.
 
